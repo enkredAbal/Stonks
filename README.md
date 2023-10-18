@@ -1,2 +1,2 @@
 # Stonks
-Share market 
+For learning Share market 
